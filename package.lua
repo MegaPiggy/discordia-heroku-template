@@ -5,6 +5,6 @@ return {
   description = "Example discordia app for heroku",
   dependencies = {
     "luvit/luvit",
-		'SinisterRectus/discordia',
+    'SinisterRectus/discordia',
   },
 }
